@@ -35,3 +35,4 @@ Things you may want to cover:
 8. When clicking on a link within a Turbo Frame, if there is no Turbo Frame with the same id on the target page, the frame disappears
 9. data: turbo_frame
 10. _top keyword
+11. turbostream, it can be async too.
